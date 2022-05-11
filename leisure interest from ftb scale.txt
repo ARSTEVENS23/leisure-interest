@@ -1,0 +1,13 @@
+﻿Leisure_act, part_interest
+Model building, 6
+Cooking, 16
+Exploring nature, 15
+Boating, 11
+Team sports, 16
+Social circles, 13
+Book club, 10
+Outdoor adventure, 13
+Volunteering, 17
+Meditation, 11
+Gardening, 12
+Team building, 14
